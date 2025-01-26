@@ -42,4 +42,4 @@ Escolhi as tecnologias que estou mais acostumado como o mysql sendo o banco de d
 
 ## O que é que eu faria de diferente se me fosse atribuído mais tempo?
 
-Eu adicionaria tratamento de erro nos resolvers e gostaria de estudar mais sobre graphql, foi meu primeiro projeto usando ele, foi um ótimo desafio
+Eu adicionaria tratamento de erro nos resolvers e gostaria de estudar mais sobre graphql, foi meu primeiro projeto usando ele, foi um ótimo desafio, e adicionaria a paginação que ficou faltando
